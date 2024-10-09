@@ -8,12 +8,18 @@ p {
   text-align: center;
 }
 
-img {
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
   display: block;
-  margin: auto;
+  margin: 30px auto;
 }
-a {
-  display: flex;
-  justify-content: space-around;
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
   color: rgb(71, 137, 139);
 }
