@@ -8,6 +8,12 @@ p {
   text-align: center;
 }
 
+img {
+  display: block;
+  margin: auto;
+}
 a {
-  color: cornflowerblue;
+  display: flex;
+  justify-content: space-around;
+  color: rgb(71, 137, 139);
 }
